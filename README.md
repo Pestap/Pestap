@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pestap
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Java, Android App Development
+- 🌱 I’m currently learning Java, Pyhton, AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: pestap4k@gmail.com
 
