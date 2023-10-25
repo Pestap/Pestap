@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pestap
 - 📫 How to reach me: pestap4k@gmail.com
-- 3rd year CS student - PG ETI
+- 4rd year CS student - PG ETI
 
 <!---
 Pestap/Pestap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
